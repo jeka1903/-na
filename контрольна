@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <title>Контрольна робота</title>
+</head>
+<body>
+  <h1>Контрольна робота</h1>
+  <h2>Виконавець:</h2>
+  <h3>Стасюк Євген</h3>
+  <p>
+   варіант 2
+  </p>
+  <h2>Текст</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac urna augue. Cras semper, nibh vel tempus iaculis, mauris enim scelerisque enim, in tristique enim lectus et ligula. Integer ac eros enim. Nullam ac quam eget odio ullamcorper semper. Aenean at tellus vel lectus ultricies semper.</p>
+  <h2>Список</h2>
+  <ul>
+    <li>Чай</li>
+    <li>Овочі:</li>
+      <ul>
+        <li>Капуста</li>
+        <li>Морква</li>
+        <li>Буряк</li>
+      </ul>
+    <li>Сир</li>
+    <li>Сметана</li>
+    <li>Кетчуп</li>
+  </ul>
+  <h2>Таблиця</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Місто</th>
+        <th>Населення</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Дублін</td>
+        <td>1,1 млн. ос.</td>
+      </tr>
+      <tr>
+        <td>Ер-Ріяд</td>
+        <td>7,6 млн. ос.</td>
+      </tr>
+      <tr>
+        <td>Мюнхен</td>
+        <td>1,4 млн. ос.</td>
+      </tr>
+      <tr>
+        <td>Детройт</td>
+        <td>0,6 млн. ос.</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
